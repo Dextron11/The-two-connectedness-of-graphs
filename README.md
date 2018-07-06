@@ -1,2 +1,2 @@
 # The-two-connectedness-of-graphs
-A program for finding two connectivity in a graph
+A program for finding biconnected component  in a graph
